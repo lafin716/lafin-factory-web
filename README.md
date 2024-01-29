@@ -1,75 +1,20 @@
-# Nuxt 3 Minimal Starter
+# Lafin Factory
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+> Nuxt3 기반 유틸 사이트 오픈소스입니다.<br>
+> 개발 또는 업무 시 유용한 툴을 개발하여 어드민 대시보드 형태로 제작할 예정입니다.
 
 ## Setup
 
-Make sure to install the dependencies:
-
 ```bash
-# npm
-npm install
-
 # pnpm
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
 ## Development Server
 
-Start the development server on `http://localhost:3000`:
+로컬 환경에서 실행 시 다음 주소로 접속 가능합니다. : `http://localhost:3000`:
 
 ```bash
-# npm
-npm run dev
-
 # pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+pnpm dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
