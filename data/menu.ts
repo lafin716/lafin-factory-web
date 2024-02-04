@@ -15,6 +15,26 @@ const menuItems = [
         icon: "data-object-rounded",
         to: "/sort/json",
       },
+      {
+        title: "SQL",
+        icon: "data-object-rounded",
+        to: "/sort/sql",
+      },
+      {
+        title: "HTML",
+        icon: "data-object-rounded",
+        to: "/sort/html",
+      },
+      {
+        title: "CSS",
+        icon: "data-object-rounded",
+        to: "/sort/css",
+      },
+      {
+        title: "JS",
+        icon: "data-object-rounded",
+        to: "/sort/js",
+      },
     ],
   },
 ];
